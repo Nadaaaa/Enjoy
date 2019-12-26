@@ -1,0 +1,2 @@
+include ':app', ':videoslider'
+rootProject.name='Enjoy'

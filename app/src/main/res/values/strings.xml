@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Enjoy</string>
+    <string name="icon">icon</string>
+    <string name="my_orders">My Orders</string>
+    <string name="artists">Artists</string>
+    <string name="works">Works</string>
+    <string name="service_request">Service Request</string>
+    <string name="contact_us">Contact us</string>
+    <string name="settings">Settings</string>
+    <string name="about_app">About app</string>
+    <string name="home">Home</string>
+    <string name="drawer_open">drawer_open</string>
+    <string name="drawer_close">drawer_close</string>
+</resources>
